@@ -1,4 +1,4 @@
-## A ShadowsocksR, V2Ray and Trojan Client for Android
+## A ShadowsocksR, V2Ray and Trojan Client for Android DarckMR
 
 A fully featured [ShadowsocksR](https://github.com/breakwa11/shadowsocks-rss/), [V2Ray](https://github.com/v2ray/v2ray-core) and [Trojan](https://trojan-gfw.github.io/trojan/protocol) client for Android, written in Scala.
 
